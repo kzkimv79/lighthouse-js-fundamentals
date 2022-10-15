@@ -1,5 +1,5 @@
 for (var num = 100; num <= 200; num++) {
-  if ((num % 3 ===0) && (num % 4 === 0)) {
+  if ((num % 3 === 0) && (num % 4 === 0)) {
     console.log('LoopyLighthouse');
   } else if (num % 3 === 0 ) {
     console.log('Loopy');
